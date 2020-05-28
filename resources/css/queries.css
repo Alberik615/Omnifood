@@ -52,6 +52,10 @@
     margin-left: 10%;    
 }
     .app-screen { width: 40%;}
+	.long-copy {
+    width: 80%;
+    margin-left: 10%;    
+}
 
     .step-box:first-child {
     text-align: center;
